@@ -1,0 +1,270 @@
+html{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0px;
+}
+
+header img{
+    margin: 30px 20px 0px;
+    
+}
+
+header nav ul  {
+    list-style: none;
+    padding: 0px;
+    background-color: #ff8126;
+    margin: 10px;
+    text-align: center;
+    
+    }
+
+header nav li{
+    display: inline-block;
+   
+}
+header nav li a{
+    
+    font-size:85%;
+    display: flex;
+    color: #f1f1f1;
+    padding: 10px;
+    text-decoration: none;
+    
+ 
+     
+}
+header nav li a:hover {
+    background-color: #ff974c;
+    padding-top: 12px;
+    border-top: 2px solid #ff8126;
+    border-bottom:2px;
+    border-bottom-color:#ff8126;
+    border-bottom-style:solid;
+    margin-top:-5px;
+    margin-bottom:-5px;
+}
+
+.posters{ 
+  display: flex;
+  justify-content: center;
+    
+}
+
+.poster{
+    
+  padding: 20px;
+
+    
+}
+
+.poster p{
+   white-space: pre-line;
+   margin-left: 5px;
+   margin-top: 0px;
+
+}
+
+.fundo{
+    background-color: #f3f2f1 ;
+    padding: 5px;
+    border-bottom: 2px solid #d2d2d2 ;    
+}
+
+
+
+#d p{
+    white-space: pre-line;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+#loren a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+   
+    
+}
+
+#lftup{
+    border-bottom: 2px solid #f1f1f1 ;
+    padding-bottom: 15px;
+    
+}
+
+
+.baixo{
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-bottom: 80px;
+}
+
+.downrgt{
+    display: flex;
+    margin-top: 20px;
+}
+
+
+
+.lado{
+    display: flex;
+    margin-top: 20px;
+    border-bottom: 2px solid #f1f1f1 ;
+    padding-top: 15px;
+    padding-bottom: 20px;
+ 
+    
+    
+}
+
+.lado a{
+    text-decoration: none;
+    color: black;
+    white-space: pre-line;
+    float: right;
+    padding-top: 7px;
+    padding-left: 7px;
+    font-weight: bold;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+.downrgt a{
+     text-decoration: none;
+    color: black;
+   white-space:  pre-line;
+    
+}
+
+
+.cannes{
+    border-top: 3px solid #ff974c ;
+    padding-top: 15px;
+    margin-left: 25px;
+    border-bottom: 2px solid #f1f1f1 ;
+    
+    
+}
+
+
+
+.cannes img{
+    display: block;
+    padding-top: 5px;
+    
+}
+
+
+
+.cannes p{
+    white-space: pre-line;
+    font-size: 15px;
+    font-weight: bold;
+    margin:0;
+    margin-top: 15px;
+     margin-bottom:10px;
+}
+
+
+.cannes a{
+    text-decoration: none;
+    color: black;
+    
+}
+#lkcannes{
+   font-size: 28px;
+    color: #ff8126;
+    white-space: pre-line;
+}
+
+
+
+.destaques{
+    border-top: 3px solid #ff974c ;
+    padding-top: 15px;
+    margin-left: 25px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #f1f1f1 ;
+}
+
+.destaques a{
+    text-decoration: none;
+    color: black;
+font-size: 15px;
+    
+}
+.destaques p{
+      white-space: pre-line;
+    font-size: 15px;
+    font-weight: bold;
+    margin:0;
+    margin-top: 15px;
+     margin-bottom:10px;
+}
+.destaques img{
+   display: block;
+    padding-top: 5px;
+    
+}
+
+
+.gif{
+    display: block;
+    padding-bottom: 10px;
+}
+
+#gif0{
+    display: inline-block;
+}
+
+#gif1{
+    display: inline-block;
+    
+}
+#gif2{
+    display: inline-block;
+}
+
+
+
+footer{
+    padding-bottom: 5px;
+    background-color: black;
+    
+    
+}
+footer nav ul {  
+    list-style: none;
+    padding: 0px;
+    background-color: #111111;
+     text-align: center;
+}
+
+footer nav li{
+   display: inline-block;
+}
+footer  nav li a{
+    font-size:85% ;
+    display: block;
+    color: #f1f1f1;
+    padding: 12px;
+    text-decoration: none;
+    
+}
+footer nav li a:hover {
+    background-color: #ff8126;
+}
